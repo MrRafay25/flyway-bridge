@@ -1,0 +1,8 @@
+{
+  "name": "FlyWy Bridge",
+  "description": "Modern high-tech B2B marketplace and retail tech bridging agency connecting European AI Smart Mirrors, Virtual Fitting Rooms, and Automated Retail Analytics with emerging market fashion and retail giants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
